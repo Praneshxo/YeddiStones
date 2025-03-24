@@ -1,9 +1,8 @@
-```markdown
-# T-Shirt E-Commerce Website
+#T-Shirt E-Commerce Website
 
 This is a simple e-commerce website built with **Next.js**, **React**, **Express**, and **PostgreSQL** (using **Neon** for database hosting). It provides a platform to display and sell t-shirts with a user-friendly interface. The backend is powered by Express, and Axios is used for handling HTTP requests between the frontend and backend.
 
-## Technologies Used
+##Technologies Used
 
 - **Frontend**:  
   - **Next.js**: React-based framework for server-side rendering and static site generation.
