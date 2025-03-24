@@ -1,0 +1,25 @@
+.hero {
+    background: url('../app/images/IMG@2x.png') no-repeat center center/cover;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 60%;
+  }
+  
+  .content {
+    text-align: center;
+    z-index: 20;
+  }
+  
+  h1 {
+    font-size: 48px;
+    color: white;
+  }
+  
+  p {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+
+  
